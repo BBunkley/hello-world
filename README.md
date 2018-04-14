@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hello Everyone!
+
+Im super, duper awesome and fun!
